@@ -15,3 +15,5 @@ The used the python script to create some activity by:
 - commit while over-riding the commit and author dates
 
 push to the repo and...
+
+<img width="782" alt="image" src="github contribution heatmap.png" />
